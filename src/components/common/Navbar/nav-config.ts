@@ -17,6 +17,6 @@ export const navItems: NavItem[] = [
 ];
 
 export const socialLinks: SocialLinks = {
-  github: "https://github.com/tanvirahmed",
-  linkedin: "https://linkedin.com/in/tanvirahmed",
+  github: "https://github.com/",
+  linkedin: "https://linkedin.com/",
 };
