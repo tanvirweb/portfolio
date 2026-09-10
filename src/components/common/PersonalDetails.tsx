@@ -58,7 +58,7 @@ export default function PersonalDetails() {
             <div className="border-b border-neutral-200 p-8 md:border-b-0 md:border-r">
               <div className="relative mx-auto aspect-square w-36 overflow-hidden rounded-2xl border border-neutral-200 bg-neutral-50">
                 <Image
-                  src="/tanvir-dev.jpg"
+                  src="https://tanvirweb.github.io/portfolio/tanvir-dev.jpg"
                   alt="Md Tanvir Ahmed"
                   fill
                   priority
